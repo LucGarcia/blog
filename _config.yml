@@ -18,17 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The ape in the mirror
+title: el simio en el espejo
 email: apeinthemirror@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Practical philosophy for self-aware monkeys.
+  Filosofía práctica y diseño de vida
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: _luc_garcia_
 # github_username:  LucGarcia
 # facebook_username: apeinthemirror
 # Build settings
-theme: jekyll-theme-slate
+google_analytics: UA-155206254-1
 plugins:
   - jekyll-feed
 

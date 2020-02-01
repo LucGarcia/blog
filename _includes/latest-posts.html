@@ -1,0 +1,10 @@
+<div class="outer">
+  <section class="inner">
+    <h2>Últimos artículos</h2>
+      {% for post in site.posts limit:5 %}
+        <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+        {{ post.excerpt }}
+      {% endfor %}
+      <a href="/posts">ver todos</a>
+  </section>
+</div>
