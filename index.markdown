@@ -2,26 +2,29 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-title: Talking about the ape in the room
+title: El simio en el espejo
 
 ---
+# Cómo vivir una vida buena: los básicos
 
-# Talking about the ape in the room
+Durante los últimos miles de años, los humanos hemos explorado el mundo, construido ciudades, desarrollado tecnologías revolucionarias, multiplicado exponencialmente nuestra población y eliminado la mayoría de las amenazas a nuestra supervivencia. Se podría decir que no nos va nada mal. Al menos, como especie.
 
-In the last thousands of years, us humans have managed to explore the world, build cities, develop unimaginable technologies, grow our population exponentially and eliminate most threats to the survival of our species. You could say we are doing quite well.
+Sin embargo, cuando la mirada se posa en el individuo, la realidad que vemos es muy distinta. El miedo, la frustración, las enfermedades mentales y la ansiedad existencial parecen crecer tan rápido como nuestras poblaciones, y las herramientas que tenemos para combatirlas (la mayoría heredadas de filosofías y religiones con más de dos mil años de antigüedad), no parecen responder del todo a nuestras necesidades. Cuanto más avanzamos como especie, más nos alejamos de nuestras necesidades como individuos.
 
-What we never learned, though, is how to live a good life. For that, we still rely in religions and philosophies created more than two thousand years ago. And, with mental illnesses and existential anxiety growing as fast as our populations, we seem to be doing worse with time rather than better.
+¿Cómo podemos vivir una vida buena?
 
-The "good life problem" forces us to take a deep look at our own nature. What makes a good life will be determined by what we are and what we need.
+Este problema nos fuerza a explorar nuestra naturaleza. Lo que hace que una vida sea buena, al fin y al cabo, viene determinado por lo que somos y lo que necesitamos.
 
-Part of the problem is that, all these years, we have been creating an image of ourselves that is not quite realistic. We have been telling stories of how special, unique, heroic and cool we are. And we continue to do so. We create stories about superhumans, and when we do not measure up to them, we feel that we are not enough.
+En nuestro caso, a menudo "quiénes somos" oculta "qué somos".
 
-![drawing of superhuman and normal guy](/assets/images/superhuman.png)
+Todos estos años hemos construido una imágen de nosotros mismos que no es del todo realista. Creamos historias sobre lo especiales, únicos, heroicos y guays que somos, historias sobre superhumanos. Y, cuando no podemos alcanzar ese ideal, sentimos que no somos lo suficientemente buenos.
 
-Not great for self esteem, right?
+![dibujo de superhombre y tipo normal](/assets/images/superhuman.png)
 
-Instead of trying to elevate ourselves to the legends that we create, maybe we should start by eating a generous serving of humble pie. The truth is, we know what we are. Our experts (biologists, geneticists, taxonomists) have been telling us for years: we are apes. We are monkeys.
+No parece lo mejor para la autoestima, ¿verdad?
 
-And a monkey needs a monkey life.
+En lugar de tratar de elevarnos al nivel de nuestras leyendas, tal vez la solución empiece por mirarnos al espejo y ver qué somos, en lugar de quiénes somos. Y, nos guste más o menos, todos sabemos qué somos: somos simios. Somos monos.
 
-Let's talk about that.
+Y un mono necesita una vida de mono.
+
+Hablemos de ello.
