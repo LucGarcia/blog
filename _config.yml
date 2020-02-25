@@ -22,8 +22,8 @@ title: el simio en el espejo
 email: apeinthemirror@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Filosofía práctica y diseño de vida
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "http://lucgarcia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: _luc_garcia_
 # github_username:  LucGarcia
 # facebook_username: apeinthemirror
