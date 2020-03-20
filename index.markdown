@@ -19,7 +19,7 @@ En nuestro caso, a menudo "quiénes somos" oculta "qué somos".
 
 Todos estos años hemos construido una imágen de nosotros mismos que no es del todo realista. Creamos historias sobre lo especiales, únicos, heroicos y guays que somos, historias sobre superhumanos. Y, cuando no podemos alcanzar ese ideal, sentimos que no somos lo suficientemente buenos.
 
-![dibujo de superhombre y tipo normal](assets/images/superhuman.png)
+![dibujo de superhombre y tipo normal](/assets/images/superhuman.png)
 
 No parece lo mejor para la autoestima, ¿verdad?
 
